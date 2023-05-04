@@ -20,11 +20,7 @@ This fault detection system uses the Caltech 101 dataset, which contains images 
 
 1. Clone this repository:
 
-    git clone https://github.com/your_username/fault_detection_system.git
-
-2. Install the required dependencies:
-
-    pip install -r requirements.txt
+    git clone https://github.com/nadinejackson1/fault-detection-system.git
 
 ### Dataset Preparation
 
